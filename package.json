@@ -1,0 +1,18 @@
+{
+    "name": "random-qoute-terminal",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.1"
+    }
+}
